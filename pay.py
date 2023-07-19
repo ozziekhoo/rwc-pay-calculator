@@ -69,7 +69,7 @@ rates = {
 		'leave_pub_hol': 2.07,
 		'allowance' : 0.42,
 		'weekday' : 6.58,
-		'saturday' : 12.4519,
+		'saturday' : 13.16,
 		'sunday' : 19.75,
 		'public_holiday' : 62.2593,
 	}
