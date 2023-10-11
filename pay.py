@@ -66,12 +66,12 @@ def work(weekday=0, saturday=0, sunday=0, public_holiday=0, rates=None):
 rates = {
 		'base' : 26.33,
 		'leave' : 2.74,
-		'leave_pub_hol': 2.07,
+		'leave_pub_hol': 2.19,
 		'allowance' : 0.42,
 		'weekday' : 6.58,
 		'saturday' : 13.16,
 		'sunday' : 19.75,
-		'public_holiday' : 62.2593,
+		'public_holiday' : 65.83,
 	}
 
 # work(weekday=26, saturday=7.5, sunday=0.5, rates=rates)
