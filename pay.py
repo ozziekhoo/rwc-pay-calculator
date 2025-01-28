@@ -71,7 +71,7 @@ rates = {
 		'allowance' : 0.42,
 		'weekday' : 6.83,
 		'saturday' : 13.66,
-		'sunday' : 19.75,
+		'sunday' : 20.49,
 		'public_holiday' : 68.30,
 	}
 
