@@ -72,7 +72,7 @@ rates = {
 		'weekday' : 6.83,
 		'saturday' : 13.66,
 		'sunday' : 19.75,
-		'public_holiday' : 65.83,
+		'public_holiday' : 68.30,
 	}
 
 # work(weekday=26, saturday=7.5, sunday=0.5, rates=rates)
